@@ -13,8 +13,8 @@
 ### 📝 Контрольные работы:
 | Работа | Условие | Решение | Статус |
 |--------|---------|---------|--------|
-| **РК1** | [Условие](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA1/README.md) | [Решение](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA1/rk1.ipynb) | ✅ Завершено |
-| **РК2** | [Условие](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA2/README.md) | [Решение](https://github.com/BelyaevIvan/TMO_6sem/blob/%D1%80%D0%BA2/rk2.ipynb) | ✅ Завершено |
+| **РК1** | [Условие](https://github.com/KirillGrigorenko/TMO_6sem/blob/%D0%A0%D0%9A1/README.md) | [Решение](https://github.com/KirillGrigorenko/TMO_6sem/blob/%D0%A0%D0%9A1/rk_1.ipynb) | ✅ Завершено |
+| **РК2** | [Условие](https://github.com/KirillGrigorenko/TMO_6sem/blob/%D0%A0%D0%9A2/README.md) | [Решение](https://github.com/KirillGrigorenko/TMO_6sem/blob/%D0%A0%D0%9A2/rk2.ipynb.py) | ✅ Завершено |
 | **НИР** | [Условие](https://github.com/KirillGrigorenko/TMO_6sem/blob/%D0%9D%D0%98%D0%A0%D0%A1/README.md) | [Решение]() | ❌ В процессе <br>[Отчет]() |
 
 ---
